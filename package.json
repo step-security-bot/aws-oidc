@@ -11,6 +11,6 @@
         "@pulumi/command": "1.0.1",
         "@pulumi/pulumi": "3.148.0",
         "@pulumi/pulumiservice": "0.29.0",
-        "@pulumi/tls": "5.1.0"
+        "@pulumi/tls": "5.1.1"
     }
 }
